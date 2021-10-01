@@ -33,4 +33,9 @@ public class MiddleElementOfLinkedList {
              return slow.next.data;
          }
     }
+
+    static class Node{
+        int data;
+        Node next;
+    }
 }

@@ -12,7 +12,7 @@
  sum 0 will be -2 2 -8 1 7.
 
  */
-package com.practice.arrays
+package com.practice.arrays;
 
 import java.util.HashMap;
 
